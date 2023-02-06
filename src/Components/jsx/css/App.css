@@ -1,0 +1,8 @@
+.App,.Homepage,.Attendencepage,.Classespage,.Coursespage,.Submissionspage{
+    display: grid;
+    position: absolute;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    z-index: 5;
+}

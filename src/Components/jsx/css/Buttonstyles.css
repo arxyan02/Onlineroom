@@ -1,0 +1,14 @@
+.Classes,.Courses,.Submissions,.Attendence,.Home{
+    background-color: black;
+    margin-left: -5px;
+    width: 50px;
+    display: flex;
+    border-radius: 15px;
+}
+.Classes:hover,.Courses:hover,.Submissions:hover,.Attendence:hover,.Home:hover{
+    cursor: pointer;
+}
+.Classes:active,.Courses:active,.Submissions:active,.Attendence:active,.Home:active{
+    cursor: pointer;
+    background-color: rgb(66, 64, 64);
+}

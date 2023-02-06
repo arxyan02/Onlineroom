@@ -1,0 +1,12 @@
+.Homecenter,.Attendencecenter,.Coursescenter,.Submissionscenter,.Classescenter{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding-right: 10px;
+    z-index: 1;
+    margin-left: 70px;
+    text-align: center;
+    
+}
