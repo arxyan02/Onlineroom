@@ -1,0 +1,46 @@
+.SubmissionsCount{
+    height: 31vh;
+    width: 31vh;
+    background-color: black;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-size: large;
+    color: white;
+    box-shadow: 0px 5px 20px 0 grey;
+}
+.Classescount{
+    height: 31vh;
+    width: 31vh;
+    background-color: black;
+    border-radius: 30px;
+    margin-top: 30px; 
+    font-size: large;
+    color: white;
+    box-shadow: 0 5px 20px 0 grey;   
+}
+.Attendencecount{
+    height: 31vh;
+    width: 31vh;
+    background-color: black;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-size: large;
+    color: white;
+    box-shadow: 0 5px 20px 0 grey;
+}
+.Coursescount{
+    height: 31vh;
+    width: 31vh;
+    background-color: black;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-size: large;
+    color: white;
+    box-shadow: 0 5px 20px 0 grey;
+}
+/* .Markschart{
+    width: 80%;
+    height: 30%;
+    background-color: grey;
+    padding-top: ;
+} */
